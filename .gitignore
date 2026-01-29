@@ -1,0 +1,6 @@
+models/
+yolov8x.pt  
+training/runs/
+training/football-players-detection-1
+training/*.pt
+runs/
