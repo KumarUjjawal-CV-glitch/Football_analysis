@@ -39,7 +39,7 @@ GitHub does not support direct video embedding, but you can view the project out
 
 Click the image below to watch the demo:
 
-[![Football Analysis Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Football Analysis Demo](https://youtu.be/VhowC7ncxAE)](https://youtu.be/VhowC7ncxAE)
 
 👉 Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
 
